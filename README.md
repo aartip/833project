@@ -3,8 +3,8 @@
 
 ## Task list
 
-* [ ]Submit a scientifically written report that should include: 
-	* [ ]an abstract;
+* Submit a scientifically written report that should include: 
+	* an abstract;
 	* an introduction to the problem being considered;
 	* a review of related work and extensive discussion of merits and limitations;
 	* conclusion and ideas for future work;
@@ -16,3 +16,7 @@
 	* talk about merits and limitations of existing work;
 	* propose several ideas for future work;
 	* answer questions.
+
+## Note
+
+* She has yet put the evaluation form. 
