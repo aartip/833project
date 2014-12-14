@@ -4,8 +4,10 @@
 
 ### Abstract
 
-### 1. Introduction
+### Introduction
 
-### 2. Related Work
+### Review of Related Work
 
-### 3. Implementation
+### Conclusion
+
+### Future Work
