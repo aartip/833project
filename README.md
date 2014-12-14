@@ -3,6 +3,7 @@
 
 ## Task list
 
+* ~~Form a team~~
 * Submit a scientifically written report that should include: 
 	* an abstract;
 	* an introduction to the problem being considered;
