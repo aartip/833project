@@ -14,8 +14,17 @@
 
 #### NOSQL
 
-* The reason we need to transfer from SQL to NOSQL
-* The functionality of Hadoop
+* **The Definition of NoSQL**: A NoSQL (often interpreted as Not Only SQL) database provides a mechanism for storage and retrieval of data that is modeled in means other than the tabular relations used in relational databases.
+* **Motivation of NoSQL**: 
+	* Simplicity of design;
+	* Horizontal Scalling;
+	* Finer control over availability.
+* **Types of NoSQL databases**: this basic classification is based on data model. 
+	* Column
+	* Document
+	* Key-value
+	* Graph
+	* Multimodel Databases
 * The implementation of NOSQL (MangoDB, OrientDB)
 
 
@@ -24,3 +33,4 @@
 ### Conclusion
 
 ### Future Work
+
