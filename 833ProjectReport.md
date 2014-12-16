@@ -45,8 +45,9 @@
 #### 3.1 Review on Hadoop
 
 * [MapReduce: Simplified Data Processing on Large Clusters](https://www.usenix.org/legacy/publications/library/proceedings/osdi04/tech/full_papers/dean/dean_html/index.html)
-* [Understanding the Power of Hadoop as a Service](https://docs.google.com/file/d/0BwMVEMCs7KRNNWIyT3hiRXhLWms/edit)
+* [Understanding the Power of Hadoop as a Service](https://docs.google.com/file/d/0BwMVEMCs7KRNNWIyT3hiRXhLWms/edit) (Aarti)
 * [The Hadoop Distributed File System](https://docs.google.com/file/d/0B2_4GOBGjarzTkdLZDBNbVdYTXM/edit)
+* [SQL-on-Hadoop Engines Explained](https://docs.google.com/file/d/0BwMVEMCs7KRNb1hici14RV9XVnc/edit) (Aarti)
 
 
 #### 3.2 Review on NoSQL
@@ -58,8 +59,8 @@
 #### 3.3 Review on Hadoop + NoSQL 
 
 * [Hadoop and NoSQL Technologies and the Oracle Database](https://docs.google.com/file/d/0BwMVEMCs7KRNUDJwaWx2Y2VyXzA/edit)
-* [Optimizing Your Enterprise Architecture with Apache Hadoop and NoSQL](https://docs.google.com/file/d/0BwMVEMCs7KRNTjBCSzVQZ0E3OXc/edit)
-* [HBase: The Definitive Guide](https://docs.google.com/file/d/0B2_4GOBGjarzVXR3RUFwcXZxSzA/edit)
+* [Optimizing Your Enterprise Architecture with Apache Hadoop and NoSQL](https://docs.google.com/file/d/0BwMVEMCs7KRNTjBCSzVQZ0E3OXc/edit) (Aarti)
+* [HBase: The Definitive Guide](https://docs.google.com/file/d/0B2_4GOBGjarzVXR3RUFwcXZxSzA/edit) (Mac)
 
 
 ### 4. Conclusion
