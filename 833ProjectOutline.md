@@ -17,6 +17,37 @@
 * [Understanding the Power of Hadoop as a Service](https://docs.google.com/file/d/0BwMVEMCs7KRNNWIyT3hiRXhLWms/edit) (Quan)
 * [The Hadoop Distributed File System](https://docs.google.com/file/d/0B2_4GOBGjarzTkdLZDBNbVdYTXM/edit) (Quan)
 
+---
+
+* Big Data Challenges
+	* pic
+
+* What is Hadoop
+	* A scalable, fault-tolerant distributed system for  data storage and processing.
+
+* Components of Hadoop
+	* pic
+
+* HDFS
+
+* MapReduce
+
+* Why Hadoop
+	* Scalability
+		* scale out architecture
+	* Hardware failure
+		* multiple copies of data
+	* Read/Write disk slow
+		* multiple disks for parallel read
+	* Merge data from different reads
+		* MapReduce
+
+* Disadvantages
+	* not fit for small and real time data application
+	* join multiple data are complex
+	* not efficient for query
+
+
 
 #### 3.2 Review on NoSQL (Mac)
 
@@ -99,6 +130,64 @@
 * [Hbase: The Definitive Guide](https://docs.google.com/file/d/0B2_4GOBGjarzVXR3RUFwcXZxSzA/edit)
 
 ---
+
+* Pros and Cons of Hadoop
+	* Advantages
+		* High data storage and processing scalability
+		* Low price/performance ratio
+		* High performance
+		* High Availability
+		* High schema flexibility
+		* Capability to handle all types of data
+		* Format free storage of data
+	* Disadvantages
+		* Hadoop API's like HBase, HDFS, MapReduce, are quite complex. They require expertise in Java Programming (or similar high-level languages) and require in-depth knowledge of how to parallelize query processing efficiently. 
+		* The downsides of these interfaces are
+			* a small target audience
+			* low productivity
+			* time consuming analysis
+			* limited tool support
+
+* What do we need??  
+	What is needed is a programming interface that 
+	* retains HDFS’s performance and scalability, 
+	* offers high productivity and maintainability, 
+	* is known to non-technical users, 
+	* can be used by many reporting and analytical tools.  
+	The obvious choice is - SQL!! 
+
+* SQL is a 
+	* high level, declarative and standardized database language
+	* familiar to countless BI specialists, 
+	* supported by almost all reporting and analytical tools
+	* and, has proven its worth over and over again!
+
+To offer SQL on Hadoop, SQL Query Engines are needed that can query and manipulate large volumes of data stored in HDFS or HBase. Such products are called SQL-on-Hadoop Engines!!
+
+* SQL-on-Hadoop Engines  
+	Some of the many SQL-on-Hadoop engines are listed below
+	* Apache Drill, 
+	* Apache Hive, 
+	* CitusDB, 
+	* Cloudera Impala, 
+	* Concurrent Lingual,
+	* Hadapt, 
+	* HP Vertica, 
+	* InfiniDB, 
+	* JethroData, 
+	* MemSQL, 
+	* Pivotal HAWQ, 
+	* Progress DataDirect, 
+	* ScleraDB, 
+	* Shark,
+	* SpliceMachine
+
+* External working of SQL-on-Hadoop Engines
+	* On the outside, most of the SQL-on-Hadoop engines look alike. They all support some SQL-dialect that can be invoked through ODBC or JDBC. 
+* Internal working of SQL-on-Hadoop Engines
+	* Internally, they are very different. The differences stem from the purpose for which they have been designed.
+	* 
+
 
 ### 4. Conclusion
 
