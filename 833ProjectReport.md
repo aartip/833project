@@ -51,10 +51,15 @@
 
 * [A Comparison Between Several NoSQL Databases with Comments and Notes](https://drive.google.com/drive/#folders/0B2_4GOBGjarzekNaTjVjUGw5YlU)
 * [NoSQL Databases](https://drive.google.com/drive/#folders/0B2_4GOBGjarzekNaTjVjUGw5YlU)
+* [NoSQL Databases: a step to databases scalability in web environment](https://drive.google.com/drive/#folders/0B2_4GOBGjarzekNaTjVjUGw5YlU)
 
 #### 3.3 Review on Hadoop + NoSQL
 
 3-4 papers here. 
+
+* [Hadoop and NoSQL Technologies and the Oracle Database](https://drive.google.com/drive/#folders/0B2_4GOBGjarzekNaTjVjUGw5YlU)
+* [Optimizing Your Enterprise Architecture with Apache Hadoop and NoSQL](https://drive.google.com/drive/#folders/0B2_4GOBGjarzekNaTjVjUGw5YlU)
+* [HBase: The Definitive Guide](https://drive.google.com/drive/#folders/0B2_4GOBGjarzekNaTjVjUGw5YlU)
 
 
 ### 4. Conclusion
