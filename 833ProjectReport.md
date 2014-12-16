@@ -44,9 +44,9 @@
 
 #### 3.1 Review on Hadoop
 
+* [MapReduce: Simplified Data Processing on Large Clusters](https://www.usenix.org/legacy/publications/library/proceedings/osdi04/tech/full_papers/dean/dean_html/index.html)
 * [Understanding the Power of Hadoop as a Service](https://docs.google.com/file/d/0BwMVEMCs7KRNNWIyT3hiRXhLWms/edit)
 * [The Hadoop Distributed File System](https://docs.google.com/file/d/0B2_4GOBGjarzTkdLZDBNbVdYTXM/edit)
-* 
 
 
 #### 3.2 Review on NoSQL
