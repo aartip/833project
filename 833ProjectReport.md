@@ -2,17 +2,17 @@
 
 ## Aarti Parupudi, Quan Kong, Wenbo Wang
 
-### Abstract
+### 1. Abstract
 
-### Introduction
+### 2. Introduction
 
-#### Hadoop
+#### 2.1 Hadoop
 
 * The reason we need Hadoop
 * The functionality of Hadoop
 * The implementation and history of Hadoop (Spark) 
 
-#### NOSQL
+#### 2.2 NOSQL
 
 * **The Definition of NoSQL**: A NoSQL (often interpreted as Not Only SQL) database provides a mechanism for storage and retrieval of data that is modeled in means other than the tabular relations used in relational databases.
 * **Motivation of NoSQL**: 
@@ -37,8 +37,22 @@
 	* Multimodel Databases
 
 
-### Review of Related Work
+### 3. Review of Related Work
 
-### Conclusion
+#### 3.1 Review on Hadoop
 
-### Future Work
+3-4 papers here. 
+
+
+#### 3.2 Review on NoSQL
+
+2 papers here. 
+
+#### 3.3 Review on Hadoop + NoSQL
+
+3-4 papers here. 
+
+
+### 4. Conclusion
+
+### 5. Future Work
