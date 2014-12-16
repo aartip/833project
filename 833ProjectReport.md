@@ -47,8 +47,6 @@
 * [MapReduce: Simplified Data Processing on Large Clusters](https://www.usenix.org/legacy/publications/library/proceedings/osdi04/tech/full_papers/dean/dean_html/index.html) (Quan)
 * [Understanding the Power of Hadoop as a Service](https://docs.google.com/file/d/0BwMVEMCs7KRNNWIyT3hiRXhLWms/edit) (Aarti)
 * [The Hadoop Distributed File System](https://docs.google.com/file/d/0B2_4GOBGjarzTkdLZDBNbVdYTXM/edit) (Quan)
-* [SQL-on-Hadoop Engines Explained](https://docs.google.com/file/d/0BwMVEMCs7KRNb1hici14RV9XVnc/edit) (Aarti)
-* [Integrating MapReduce and RDBMSs](https://docs.google.com/file/d/0B2_4GOBGjarzS09UbV8tTkR2ems/edit) (Quan)
 
 
 #### 3.2 Review on NoSQL
@@ -71,10 +69,13 @@
 			* Eventual Consistency
 * [NoSQL Databases: a step to databases scalability in web environment](https://docs.google.com/file/d/0B2_4GOBGjarzckFhYmxkODNkVUE/edit) (Mac)
 
-#### 3.3 Review on Hadoop + NoSQL 
+#### 3.3 Review on Hadoop + NoSQL
 
-* [Hadoop and NoSQL Technologies and the Oracle Database](https://docs.google.com/file/d/0BwMVEMCs7KRNUDJwaWx2Y2VyXzA/edit) (Mac)
+* [Integrating MapReduce and RDBMSs](https://docs.google.com/file/d/0B2_4GOBGjarzS09UbV8tTkR2ems/edit) (Quan)
 * [Optimizing Your Enterprise Architecture with Apache Hadoop and NoSQL](https://docs.google.com/file/d/0BwMVEMCs7KRNTjBCSzVQZ0E3OXc/edit) (Aarti)
+* [SQL-on-Hadoop Engines Explained](https://docs.google.com/file/d/0BwMVEMCs7KRNb1hici14RV9XVnc/edit) (Aarti)
+* [Hadoop and NoSQL Technologies and the Oracle Database](https://docs.google.com/file/d/0BwMVEMCs7KRNUDJwaWx2Y2VyXzA/edit) (Mac)
+
 
 ### 4. Conclusion
 
