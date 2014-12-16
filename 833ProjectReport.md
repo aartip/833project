@@ -43,23 +43,23 @@
 
 3-4 papers here
 * [Understanding the Power of Hadoop as a Service](https://docs.google.com/file/d/0BwMVEMCs7KRNNWIyT3hiRXhLWms/edit)
-* [The Hadoop Distributed File System](https://drive.google.com/drive/#folders/0B2_4GOBGjarzekNaTjVjUGw5YlU)
+* [The Hadoop Distributed File System](https://docs.google.com/file/d/0B2_4GOBGjarzTkdLZDBNbVdYTXM/edit)
 * 
 
 
 #### 3.2 Review on NoSQL
 
-* [A Comparison Between Several NoSQL Databases with Comments and Notes](https://drive.google.com/drive/#folders/0B2_4GOBGjarzekNaTjVjUGw5YlU)
-* [NoSQL Databases](https://drive.google.com/drive/#folders/0B2_4GOBGjarzekNaTjVjUGw5YlU)
-* [NoSQL Databases: a step to databases scalability in web environment](https://drive.google.com/drive/#folders/0B2_4GOBGjarzekNaTjVjUGw5YlU)
+* [A Comparison Between Several NoSQL Databases with Comments and Notes](https://docs.google.com/file/d/0B2_4GOBGjarzdnpWUk1GQjFndU0/edit)
+* [NoSQL Databases](https://docs.google.com/file/d/0B2_4GOBGjarzaTdjcFhoODZVQWs/edit)
+* [NoSQL Databases: a step to databases scalability in web environment](https://docs.google.com/file/d/0B2_4GOBGjarzckFhYmxkODNkVUE/edit)
 
 #### 3.3 Review on Hadoop + NoSQL
 
 3-4 papers here. 
 
-* [Hadoop and NoSQL Technologies and the Oracle Database](https://drive.google.com/drive/#folders/0B2_4GOBGjarzekNaTjVjUGw5YlU)
-* [Optimizing Your Enterprise Architecture with Apache Hadoop and NoSQL](https://drive.google.com/drive/#folders/0B2_4GOBGjarzekNaTjVjUGw5YlU)
-* [HBase: The Definitive Guide](https://drive.google.com/drive/#folders/0B2_4GOBGjarzekNaTjVjUGw5YlU)
+* [Hadoop and NoSQL Technologies and the Oracle Database](https://docs.google.com/file/d/0BwMVEMCs7KRNUDJwaWx2Y2VyXzA/edit)
+* [Optimizing Your Enterprise Architecture with Apache Hadoop and NoSQL](https://docs.google.com/file/d/0BwMVEMCs7KRNTjBCSzVQZ0E3OXc/edit)
+* [HBase: The Definitive Guide](https://docs.google.com/file/d/0B2_4GOBGjarzVXR3RUFwcXZxSzA/edit)
 
 
 ### 4. Conclusion
