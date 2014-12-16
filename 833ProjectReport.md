@@ -41,12 +41,16 @@
 
 #### 3.1 Review on Hadoop
 
-3-4 papers here. 
+3-4 papers here
+* [Understanding the Power of Hadoop as a Service](https://docs.google.com/file/d/0BwMVEMCs7KRNNWIyT3hiRXhLWms/edit)
+* [The Hadoop Distributed File System](https://drive.google.com/drive/#folders/0B2_4GOBGjarzekNaTjVjUGw5YlU)
+* 
 
 
 #### 3.2 Review on NoSQL
 
-2 papers here. 
+* [A Comparison Between Several NoSQL Databases with Comments and Notes](https://drive.google.com/drive/#folders/0B2_4GOBGjarzekNaTjVjUGw5YlU)
+* [NoSQL Databases](https://drive.google.com/drive/#folders/0B2_4GOBGjarzekNaTjVjUGw5YlU)
 
 #### 3.3 Review on Hadoop + NoSQL
 
