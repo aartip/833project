@@ -53,7 +53,22 @@
 
 #### 3.2 Review on NoSQL
 
-* [A Comparison Between Several NoSQL Databases with Comments and Notes](https://docs.google.com/file/d/0B2_4GOBGjarzdnpWUk1GQjFndU0/edit) (Mac)
+* [NoSQL Databases](https://docs.google.com/file/d/0B2_4GOBGjarzaTdjcFhoODZVQWs/edit) (Mac)
+	* CAP-Theorem
+		* **Consistency**: meaning if and how a system is in a consistent state after the execution of an operation. A distributed system is typically considered to be consistent if after an update operation of some writer all readers see his updates in some shared data source.
+		* **Availability**: and especially high availability meaning that a system is designed and implemented in a way that allows it to continue operation (i.e. allowing read and write operations) if e.g. nodes in a cluster crash or some hardware or software parts are down due to upgrades.
+		* **Partition Tolerance**: understood as the ability of the system to continue operation in the presence of network partitions. These occur if two or more “islands” of network nodes arise which (temporarily or permanently) cannot connect to each other. Some people also understand partition tolerance as the ability of a system to cope with the dynamic addition and removal of nodes.
+		* CAP-Theorem - Alternatives, Traits, Examples<p><img src="Content/cap_theorem.png"/></p>
+	* ACID vs BASE
+		* ACID
+			* Atomicity
+			* Consistency
+			* Isolation
+			* Durability
+		* BASE
+			* Basically Available
+			* Soft-state
+			* Eventual Consistency
 * [NoSQL Databases: a step to databases scalability in web environment](https://docs.google.com/file/d/0B2_4GOBGjarzckFhYmxkODNkVUE/edit) (Mac)
 
 #### 3.3 Review on Hadoop + NoSQL 
