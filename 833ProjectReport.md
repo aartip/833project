@@ -15,7 +15,9 @@
 #### 2.2 NOSQL
 
 * **The Definition of NoSQL**: A NoSQL (often interpreted as Not Only SQL) database provides a mechanism for storage and retrieval of data that is modeled in means other than the tabular relations used in relational databases.
+
 * **A Little History**: The term NoSQL was first used in 1998 for a relational database that omitted the use of SQL. The term was picked up again in 2009 and used for conferences of advocates of non-relational databases. A blogger, often referred to as having made the term popular is Rackspace employee Eric Evans who later described the ambition of the NoSQL movement as “the whole point of seeking alternatives is that you need to solve a problem that relational databases are a bad fit for”. 
+
 * **Motivation of NoSQL**: 
 	* Avoidance of Unneeded Complexity;
 	* High Throughput;
