@@ -67,6 +67,7 @@
 			* Basically Available
 			* Soft-state
 			* Eventual Consistency
+		* <img src="Content/ACID_vs_BASE.png" alt="ACID vs BASE" />
 * [NoSQL Databases: a step to databases scalability in web environment](https://docs.google.com/file/d/0B2_4GOBGjarzckFhYmxkODNkVUE/edit) (Mac)
 
 #### 3.3 Review on Hadoop + NoSQL
