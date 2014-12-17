@@ -20,17 +20,27 @@
 ---
 
 * Big Data Challenges
-	* pic
+	* ![](http://www.datameer.com/images/product/big_data_hadoop/img_bigdata.png)
 
 * What is Hadoop
 	* A scalable, fault-tolerant distributed system for  data storage and processing.
 
-* Components of Hadoop
-	* pic
+* Hadoop
+	* ![](http://blog.scaleoutsoftware.com/wp-content/uploads/2014/05/scaleup-scaleout-01-e1399142851846.png)
+	* ![](http://blog.scaleoutsoftware.com/wp-content/uploads/2014/05/scaleup-scaleout-02-e1399142664951.png)
+	* ![](http://bigdatajury.com/wp-content/uploads/2014/03/030114_0817_HadoopCoreC120.png)
+
 
 * HDFS
+	* ![](https://yoyoclouds.files.wordpress.com/2011/12/hadoop_arch.png)
+	* Scale-Out Architecture 
+	* High Availability 
+	* Fault Tolerance
+	* Flexible Access
+
 
 * MapReduce
+	* ![](http://map-reduce.wikispaces.asu.edu/file/view/figure5_%281%29.png/159615807/figure5_%281%29.png)
 
 * Why Hadoop
 	* Scalability
@@ -118,6 +128,11 @@
 * <img src="Content/data_models.png" />
 
 * Sample NoSQL Databases: Apache Cassandra, MongoDB, Voldemort, Apache HBase, SimpleDB, BigTable, and OrientDB.
+
+* Advantages
+	* The horizontal scalability of NoSQL alleviates the need to predict data growth and plan for hardware upgrades, since increasing data loads can be accommodated by incrementally growing a cluster of servers
+	* The flexibility to handle different data types is useful for environments where the data model can often change due to changing business requirements
+
 
 * NoSQL was designed to deal with massive data storage, but without working with a platform that support massive and parallel data processing, this technology is not fully utilized. 	
 
@@ -238,6 +253,36 @@ To offer SQL on Hadoop, SQL Query Engines are needed that can query and manipula
 	* Avoids joins
 	* Efficient for complex queries
 	* Fast querying and data processing on big data
+
+**Hadoop and NoSQL**
+
+* What Organization need?
+	* to maintain data agility, 
+	* simplify application development
+	* manage resources more efficiently
+	* lighten the data modeling effort with technologies designed for varying data structures
+
+* Everything in place can be enhanced with newer technologies like Hadoop and NoSQL.
+
+* Hadoop & NoSQL - a perfect add-on technology!! 
+Both being investigated as the next big components to optimize existing enterprise architectures. 
+
+* Hadoop: 
+	* a framework for running huge, distributed processing jobs across a cluster of hardware-servers. 
+	* used for large-scale analytics that requires massive parallel processing power, 
+* NoSQL:
+	* refers to the class of databases that were invented to handle large volumes of data with varying and changing structures of organizations deal with today. 
+
+**Hadoop & NoSQL together??**  
+**Yes!!**  
+Since Hadoop and NoSQL each address different needs and complement each other with regard to big data, they are often used together!
+
+**Major Trends:**
+Organizations that use these technologies are embracing two major trends in enterprise architectures today, pertaining to the growing cost and effort of managing big data under control:
+
+* the first entails deploying an incrementally and horizontally scalable cluster of commodity hardware servers, 
+* the second entails handling many different and changing data formats in a single system. 
+
 
 
 ### 4. Conclusion
