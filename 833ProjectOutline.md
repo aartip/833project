@@ -130,8 +130,24 @@
 * [Hbase: The Definitive Guide](https://docs.google.com/file/d/0B2_4GOBGjarzVXR3RUFwcXZxSzA/edit)
 
 ---
+**Hadoop and RDBMS**
 
-* Pros and Cons of Hadoop
+* Integrating Hadoop with an RDBMS alleviates the limitations of both. 
+This would improve:
+
+	* interfaces
+	* interoperability
+
+
+* Hadoop: We can dump any kind of - structured, semi-structured or unstructured data into Hadoop’s file system.
+
+
+* RDBMS: We can have data in a scale-out RDBMS to get good performance and high efficiency. We can access all the data via SQL in a much faster way, improving the performance and functionality. 
+
+
+**SQL-ON-HADOOP**
+
+* Pros and Cons of Hadoop  
 	* Advantages
 		* High data storage and processing scalability
 		* Low price/performance ratio
@@ -186,7 +202,42 @@ To offer SQL on Hadoop, SQL Query Engines are needed that can query and manipula
 	* On the outside, most of the SQL-on-Hadoop engines look alike. They all support some SQL-dialect that can be invoked through ODBC or JDBC. 
 * Internal working of SQL-on-Hadoop Engines
 	* Internally, they are very different. The differences stem from the purpose for which they have been designed.
-	* 
+	* Potential use-cases for which they may have been designed:
+		* batch‐oriented query environment (data mining)
+		* interactive query environment (OLAP, self‐service BI, data visualization)
+		* point‐queries (retrieving and manipulating individual objects)
+		* investigative analytics (data science)
+		* operational intelligence (real‐time analytics)
+		* transactional (production systems)
+
+
+* The Technical White Paper: SQL-on-Hadoop Engines Explained by Rick F. van der Lans explains what SQL‐on‐Hadoop engines are, what the technological challenges are, and what potential use cases of SQL‐on‐Hadoop are.
+
+* Advantages
+	* The big advantages of having a SQL interface on Hadoop are as follows:
+		* Large target audience
+		* High productivity
+		* Openness to many tools
+
+* Challenges of SQL-on-Hadoop:
+	* the data that is stored and manipulated has to be structured 
+	* the set of columns in each table has to be static (because not all big data is structured and static)
+	* SQL queries are straight-forward (report-related and analytical queries can be far from straightforward)
+	* transforming non-sql dataset to sql dataset is difficult, costly and more time-consuming
+	* The joins with SQL on big data would be way too hectic
+	* Architectural challenges:
+		* managing concurrent queries/users (real challenge is to concurrently run multiple queries fast)
+		* parallel execution of complex operations (retrieving all the data from the HDFS file system and then doing all the SQL execution on one node (possibly in memory) is not an optimal use of the Hadoop platform)
+		* running complex analytical functions
+		* cost based optimization
+	* Creating different SQL-on-Hadoop engines based on different requirements is cumbersome.
+
+* Solution:
+* Integrating Hadoop with NoSQL
+	* Not limited to structured databases; contains key-value pairs, graphs, or documents as databases (Deals with structured, semi-structured, unstructured data)
+	* Avoids joins
+	* Efficient for complex queries
+	* Fast querying and data processing on big data
 
 
 ### 4. Conclusion
