@@ -137,7 +137,7 @@
 * NoSQL was designed to deal with massive data storage, but without working with a platform that support massive and parallel data processing, this technology is not fully utilized. 	
 
 #### 3.3 Review on Hadoop + NoSQL (Aarti)
-
+-----------------------------------------------------
 * [Integrating MapReduce and RDBMSs](https://docs.google.com/file/d/0B2_4GOBGjarzS09UbV8tTkR2ems/edit) (Aarti)
 * [SQL-on-Hadoop Engines Explained](https://docs.google.com/file/d/0BwMVEMCs7KRNb1hici14RV9XVnc/edit) (Aarti)
 * [Hadoop and NoSQL Technologies and the Oracle Database](https://docs.google.com/file/d/0BwMVEMCs7KRNUDJwaWx2Y2VyXzA/edit) (Aarti)
